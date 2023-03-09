@@ -10,7 +10,7 @@ My name is Renee Bajaj and I am a second year student. I am studying a Bachelor 
 - working on my STATS220 projects 
 - practicing things I learn in class!!
 
-_Here are 5 super interesting facts about me:_
+_Here are 5 facts about me:_
 1. I grew up in Lower Hutt but moved to Auckland to escape the gale force winds :wind_face:
 2. I am an only child. I guess my parents realised they had their hands full with just me :girl:
 3. My favourite chocolate is Snickers. I could probably live off them :yum:
