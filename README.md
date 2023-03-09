@@ -1,3 +1,3 @@
 # stats220
 
-##**Renee Bajaj**##
+##**Renee Bajaj**
