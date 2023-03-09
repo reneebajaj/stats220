@@ -6,7 +6,9 @@ __Hello!!__
 
 My name is Renee Bajaj and I am a second year student. I am studying a Bachelor of Science, specialising in Data Science. I am really enjoying my degree and am getting more and more interested in analysing data through R.
 
-**This repo is for working on my STATS220 projects and practicing things I learn in class!!**
+**This repo is for:
+- working on my STATS220 projects 
+- practicing things I learn in class!!
 
 _Here are 5 super interesting facts about me:_
 1. I grew up in Lower Hutt but moved to Auckland to escape the gale force winds :wind_face:
